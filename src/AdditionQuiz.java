@@ -8,7 +8,7 @@ public class AdditionQuiz {
     
     Scanner input = new Scanner(System.in);
     System.out.print(
-      "What is " + number1 + " + " + number2 + number3 + "? ");
+      "What is " + number1 + " + " + number2 + " + " + number3 + "? ");
     int answer = input.nextInt();
     
     System.out.println(number1 + " + " + number2 + " + " + number3 
